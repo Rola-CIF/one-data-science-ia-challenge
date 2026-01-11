@@ -1,0 +1,10 @@
+* text=auto
+
+# Archivos que siempre queremos con LF en el repo
+*.py     text eol=lf
+*.ipynb  text eol=lf
+*.csv    text eol=lf
+*.html   text eol=lf
+*.css    text eol=lf
+*.js     text eol=lf
+*.md     text eol=lf
