@@ -1,11 +1,7 @@
 # Oracle Next Education
-## Data Science IA Challenge's
+ Repositorio de los desafíos del programa Data Science IA
 
-Desafíos del programa
-
-Challenge 3
-
-Telecom X
+## Challenge 3 - Telecom X
 
 1. El propósito del análisis realizado.
 2. La estructura del proyecto y organización de los archivos.
