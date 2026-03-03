@@ -1,68 +1,102 @@
 # Oracle Next Education
  Repositorio de los desafíos del programa Data Science IA
 
-## Challenge 1 - Alura Store
+# Challenge 1 - Alura Store
 
 1. El propósito del análisis realizado.
 2. La estructura del proyecto y organización de los archivos.
 3. Ejemplos de gráficos e insights obtenidos.
 4. Instrucciones para ejecutar el notebook.
 
-## Challenge 2 - Empresa Inmobiliaria
+# Challenge 2 - Empresa Inmobiliaria
 
 1. El propósito del análisis realizado.
 2. La estructura del proyecto y organización de los archivos.
 3. Ejemplos de gráficos e insights obtenidos.
 4. Instrucciones para ejecutar el notebook.
 
-## Challenge 3 - Telecom X
+# Challenge 3 - 📊 Análisis de Evasión de Clientes (Churn) – Telecom X
 
-1. El propósito del análisis realizado.
-2. La estructura del proyecto y organización de los archivos.
+## 📌 Descripción del Proyecto
 
-   **Diccionario de datos**
+Este proyecto tiene como objetivo analizar el fenómeno de evasión de clientes (Churn) en una empresa de telecomunicaciones, identificando patrones y factores asociados a la cancelación del servicio.
 
-  - *customerID:* número de identificación único de cada cliente
-  
-  - *Churn:* si el cliente dejó o no la empresa
+A través de técnicas de limpieza, transformación y análisis exploratorio de datos (EDA), se busca generar insights estratégicos que permitan reducir la tasa de evasión y mejorar la retención de clientes.
 
-  - *gender:* género (masculino y femenino)
+## 🎯 Objetivos
+
+Comprender la distribución de la variable Churn.
+
+Identificar variables categóricas asociadas a mayor evasión.
+
+Analizar diferencias en variables numéricas entre clientes que permanecen y los que cancelan.
+
+Generar recomendaciones estratégicas basadas en datos.
+
+## ⚙️ Tecnologías Utilizadas
+
+- Python 3.x
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Jupyter Notebook
+
+## 📊 Principales Análisis Realizados
+
+#### 🔹 Limpieza y Transformación
+
+- Conversión de valores vacíos.
   
-  - *SeniorCitizen:* información sobre si un cliente tiene o no una edad igual o mayor a 65 años
-  
-  - *Partner:* si el cliente tiene o no una pareja
-  
-  - *Dependents:* si el cliente tiene o no dependientes
-  
-  - *tenure:* meses de contrato del cliente
-  
-  - *PhoneService:* suscripción al servicio telefónico
-  
-  - *MultipleLines:* suscripción a más de una línea telefónica
-  
-  - *InternetService:* suscripción a un proveedor de internet
-  
-  - *OnlineSecurity:* suscripción adicional de seguridad en línea
-  
-  - *OnlineBackup*: suscripción adicional de respaldo en línea
-  
-  - *DeviceProtection:* suscripción adicional de protección del dispositivo
-  
-  - *TechSupport:* suscripción adicional de soporte técnico, menor tiempo de espera
-  
-  - *StreamingTV:* suscripción de televisión por cable
-  
-  - *StreamingMovies:* suscripción de streaming de películas
-  
-  - *Contract:* tipo de contrato
-  
-  - *PaperlessBilling:* si el cliente prefiere recibir la factura en línea
-  
-  - *PaymentMethod:* forma de pago
-  
-  - *Charges.Monthly:* total de todos los servicios del cliente por mes
-  
-  - *Charges.Total:* total gastado por el cliente
-  
-4. Ejemplos de gráficos e insights obtenidos.
-5. Instrucciones para ejecutar el notebook.
+- Estandarización de variables binarias (yes/no → 0/1).
+
+- Conversión de tipos de datos para optimización.
+
+#### 🔹 Análisis Exploratorio
+
+- Distribución de evasión.
+
+- Tasa de churn por variables categóricas.
+
+- Comparación de medias en variables numéricas.
+
+- Visualizaciones con gráficos de barras y pastel.
+
+## 📈 Principales Insights
+
+- Clientes con contrato mensual presentan mayor tasa de evasión.
+
+- La antigüedad del cliente es un fuerte indicador de permanencia.
+
+- Menor gasto acumulado se asocia a mayor probabilidad de cancelación.
+
+- La vinculación con servicios adicionales reduce la evasión.
+
+## 💡 Recomendaciones Estratégicas
+
+- Incentivar migración a contratos de mayor duración.
+
+- Implementar programas de retención en los primeros meses.
+
+- Diseñar campañas segmentadas según perfil de riesgo.
+
+- Desarrollar modelo predictivo de churn.
+
+## 🚀 Próximos Pasos
+
+- Implementar modelo de Machine Learning.
+
+- Evaluar importancia de variables.
+
+- Construir dashboard ejecutivo.
+
+- Implementar sistema de scoring.
+
+## 👤 Autor
+
+#### Rolando Andrés Cifuentes Cid
+
+**Ingeniero en Informática | Data Analyst | Data Engineer | Data Scientist**
