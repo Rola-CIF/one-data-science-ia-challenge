@@ -1,12 +1,16 @@
 # Oracle Next Education
  Repositorio de los desafíos del programa Data Science IA
 
+ <br><br>
+
 # Challenge 1: Alura Store
 
 1. El propósito del análisis realizado.
 2. La estructura del proyecto y organización de los archivos.
 3. Ejemplos de gráficos e insights obtenidos.
 4. Instrucciones para ejecutar el notebook.
+
+<br><br>
 
 # Challenge 2: Empresa Inmobiliaria
 
@@ -15,8 +19,9 @@
 3. Ejemplos de gráficos e insights obtenidos.
 4. Instrucciones para ejecutar el notebook.
 
+<br><br>
+
 # Challenge 3: Análisis de Evasión de Clientes (Churn) – Telecom X
-<br>
 
 ## 📌 Descripción del Proyecto
 
