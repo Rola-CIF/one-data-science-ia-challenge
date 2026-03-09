@@ -21,7 +21,7 @@
 
 <br><br>
 
-# Challenge 3: Análisis de Evasión de Clientes (Churn) – Telecom X
+# Challenge 3: Análisis de Evasión de Clientes (Churn) – Telecom X - Parte 1
 
 ## 📌 Descripción del Proyecto
 
@@ -100,6 +100,10 @@ Generar recomendaciones estratégicas basadas en datos.
 - Construir dashboard ejecutivo.
 
 - Implementar sistema de scoring.
+
+<br><br>
+
+# Challenge 4: Análisis de Evasión de Clientes (Churn) – Telecom X - Parte 2
 
 ## 👤 Autor
 
