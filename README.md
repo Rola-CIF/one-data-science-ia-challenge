@@ -5,19 +5,73 @@
 
 # Challenge 1: Alura Store
 
-1. El propósito del análisis realizado.
-2. La estructura del proyecto y organización de los archivos.
-3. Ejemplos de gráficos e insights obtenidos.
-4. Instrucciones para ejecutar el notebook.
+## 🎯 Objetivo
+
+Analizar los datos de ventas de tiendas de Alura Store en Latinoamérica para identificar patrones de comportamiento en ventas y desempeño de productos.
+
+## Actividades realizadas
+
+  - Limpieza de datos
+  
+  - Transformación de variables
+  
+  - Análisis exploratorio de ventas
+
+  - Identificación de productos más vendidos
+  
+  - Análisis de facturación por tienda
+  
+  - Visualización de resultados
+
+## ⚙️ Tecnologías utilizadas
+
+  - Pandas
+
+  - Plotly
+
+  - Matplotlib
 
 <br><br>
 
 # Challenge 2: Empresa Inmobiliaria
 
-1. El propósito del análisis realizado.
-2. La estructura del proyecto y organización de los archivos.
-3. Ejemplos de gráficos e insights obtenidos.
-4. Instrucciones para ejecutar el notebook.
+## 🎯 Objetivo
+
+Desarrollar modelos de regresión lineal para estimar el precio de venta de propiedades en función de distintas variables inmobiliarias.
+
+## Actividades realizadas
+
+  - Preparación del dataset
+  
+  - Análisis exploratorio
+  
+  - Selección de variables explicativas
+  
+  - Construcción de modelos de regresión
+  
+  - Evaluación del modelo mediante métricas estadísticas
+
+## Modelos utilizados
+
+  - Regresión Lineal (OLS)
+  
+  - Evaluación con:
+
+    - R²
+
+    - Adjusted R²
+    
+    - F-statistic
+    
+    - análisis de residuos
+
+## ⚙️ Tecnologías utilizadas
+
+  - Statsmodels
+  
+  - Scikit-learn
+  
+  - Plotly
 
 <br><br>
 
@@ -104,6 +158,41 @@ Generar recomendaciones estratégicas basadas en datos.
 <br><br>
 
 # Challenge 4: Análisis de Evasión de Clientes (Churn) – Telecom X - Parte 2
+
+## 🎯 Objetivo
+
+Construir modelos predictivos capaces de predecir qué clientes tienen mayor probabilidad de cancelar el servicio.
+
+## Modelos implementados
+
+  - Regresión Logística
+  
+  - Random Forest
+  
+## Evaluación de modelos
+
+Los modelos fueron evaluados utilizando:
+
+  - Accuracy
+
+  - Precision
+
+  - Recall
+
+  - F1-Score
+
+  - Matriz de confusión
+
+  - Curva ROC
+
+  - AUC
+
+## Resultados
+
+El modelo permitió identificar clientes con mayor riesgo de churn, lo que podría ayudar a la empresa a desarrollar estrategias de retención.
+
+
+<br><br>
 
 ## 👤 Autor
 
